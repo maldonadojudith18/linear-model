@@ -30,7 +30,7 @@ import requests
 
 # The server URL specifies the endpoint of your server running the linear_model
 # model with the name "linear_model" and using the predict interface.
-SERVER_URL = 'https://linear-model-service-asunawesker.cloud.okteto.net/v1/models/linear-model:predict'
+SERVER_URL = 'https://linear-model-service-maldonadojudith18.cloud.okteto.net/v1/models/linear-model:predict'
 
 def main():
   sys_arguments = len(sys.argv)
